@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ക്രെഡിറ്റ് കാർഡ് സഹായി</string>
+    <string name="card_balance">കാർഡ് ബാലൻസ് നൽകുക ($) </string>
+    <string name="yearly_interest">വാര്ഷികം പലിശ നിരക്ക് നൽകുക(%)</string>
+    <string name="minimum_payment">മിനിമം പേയ്മെന്റ് നൽകുക ($)</string>
+    <string name="final_card_balance">ഫൈനൽ കാർഡ് ബാലൻസ് ($)</string>
+    <string name="months_remaining">ശേഷിക്കുന്ന മാസങ്ങൾ</string>
+    <string name="interest_paid">പലിശ ആയിരിക്കും($)</string>
+    <string name="compute">കമ്പ്യൂട്ട്</string>
+    <string name="Clear">തെളിഞ്ഞ</string>
+</resources>

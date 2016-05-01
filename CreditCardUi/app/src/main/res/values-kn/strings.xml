@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಸಹಾಯಕ</string>
+    <string name="card_balance">ಕಾರ್ಡ್ ಬ್ಯಾಲೆನ್ಸ್ ನಮೂದಿಸ ($) </string>
+    <string name="yearly_interest">ವಾರ್ಷಿಕ ಬಡ್ಡಿ ದರ ನಮೂದಿಸಿ(%)</string>
+    <string name="minimum_payment">ಕನಿಷ್ಠ ಪಾವತಿ ನಮೂದಿಸಿ ($)</string>
+    <string name="final_card_balance">ಫೈನಲ್ ಕಾರ್ಡ್ ಬ್ಯಾಲೆನ್ಸ್($)</string>
+    <string name="months_remaining">ಉಳಿದ ತಿಂಗಳ</string>
+    <string name="interest_paid">ಬಡ್ಡಿ ಪಾವತಿಸಲಾಗುವುದು($)</string>
+    <string name="compute">ಕಂಪ್ಯೂಟ್</string>
+    <string name="Clear">ತೆರವುಗೊಳಿಸಿ</string>
+</resources>

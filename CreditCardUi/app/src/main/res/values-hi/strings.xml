@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">क्रेडिट कार्ड हेल्पर</string>
+    <string name="card_balance">कार्ड शेष दर्ज($) </string>
+    <string name="yearly_interest">वार्षिक ब्याज दर दर्ज(%)</string>
+    <string name="minimum_payment">न्यूनतम भुगतान दर्ज ($)</string>
+    <string name="final_card_balance">अंतिम ताश का शेष ($)</string>
+    <string name="months_remaining">महीने शेष</string>
+    <string name="interest_paid">ब्याज का भुगतान किया जाएगा($)</string>
+    <string name="compute">गणना करना</string>
+    <string name="Clear">स्पष्ट</string>
+</resources>
